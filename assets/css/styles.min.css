@@ -207,7 +207,7 @@ body{
 #becomeAVolunteerForm label{
   color: #919193;
 }
-#becomeAVolunteerForm input{
+#becomeAVolunteerForm input, #becomeAVolunteerForm textarea{
   border-radius: 0;
   height: 45px;
   background: #f5f5f5;
